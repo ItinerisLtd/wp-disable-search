@@ -2,7 +2,7 @@
 <ruleset name="Plugin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/squizlabs/PHP_CodeSniffer/master/phpcs.xsd">
   <!-- Check only our site MU plugin -->
-  <file>package-template-wp-muplugin-basic.php</file>
+  <file>wp-disable-search.php</file>
 
   <!-- Show colors in console -->
   <arg value="-colors" />
@@ -20,7 +20,7 @@
 
   <rule ref="WordPress.WP.I18n">
     <properties>
-      <property name="text_domain" type="array" value="itineris" />
+      <property name="text_domain" type="array" value="itineris,wp-disable-search" />
     </properties>
   </rule>
 </ruleset>

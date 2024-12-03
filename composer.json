@@ -1,6 +1,6 @@
 {
-  "name": "itinerisltd/package-template-wp-muplugin-basic",
-  "description": "Basic WordPress plugin template for Composer",
+  "name": "itinerisltd/wp-disable-search",
+  "description": "Disable WP Search",
   "license": "MIT",
   "type": "wordpress-muplugin",
   "authors": [
@@ -16,22 +16,24 @@
       "role": "Developer"
     }
   ],
-  "homepage": "https://github.com/itinerisltd/package-template-wp-muplugin-basic/",
+  "homepage": "https://github.com/itinerisltd/wp-disable-search/",
   "support": {
     "email": "dev@itineris.co.uk",
-    "issues": "https://github.com/ItinerisLtd/package-template-wp-muplugin-basic/issues",
-    "source": "https://github.com/ItinerisLtd/package-template-wp-muplugin-basic"
+    "issues": "https://github.com/ItinerisLtd/wp-disable-search/issues",
+    "source": "https://github.com/ItinerisLtd/wp-disable-search"
   },
   "require": {
     "php": "^8.1"
   },
   "require-dev": {
-    "itinerisltd/itineris-wp-coding-standards": "^1.0"
+    "itinerisltd/itineris-wp-coding-standards": "^1.0",
+    "roots/wordpress": "^6.7"
   },
   "prefer-stable": true,
   "config": {
     "allow-plugins": {
-      "dealerdirect/phpcodesniffer-composer-installer": true
+      "dealerdirect/phpcodesniffer-composer-installer": true,
+      "roots/wordpress-core-installer": true
     },
     "optimize-autoloader": true,
     "preferred-install": "dist",

@@ -1,9 +1,9 @@
-# PackageTemplateWPMUPluginBasic
+# WPDisableSearch
 
-[![Packagist Version](https://img.shields.io/packagist/v/itinerisltd/package-template-wp-muplugin-basic.svg?label=release&style=flat-square)](https://packagist.org/packages/itinerisltd/package-template-wp-muplugin-basic)
-[![PHP from Packagist](https://img.shields.io/packagist/php-v/itinerisltd/package-template-wp-muplugin-basic.svg?style=flat-square)](https://packagist.org/packages/itinerisltd/package-template-wp-muplugin-basic)
-[![Packagist Downloads](https://img.shields.io/packagist/dt/itinerisltd/package-template-wp-muplugin-basic.svg?label=packagist%20downloads&style=flat-square)](https://packagist.org/packages/itinerisltd/package-template-wp-muplugin-basic/stats)
-[![GitHub License](https://img.shields.io/github/license/itinerisltd/package-template-wp-muplugin-basic.svg?style=flat-square)](https://github.com/ItinerisLtd/package-template-wp-muplugin-basic/blob/master/LICENSE)
+[![Packagist Version](https://img.shields.io/packagist/v/itinerisltd/wp-disable-search.svg?label=release&style=flat-square)](https://packagist.org/packages/itinerisltd/wp-disable-search)
+[![PHP from Packagist](https://img.shields.io/packagist/php-v/itinerisltd/wp-disable-search.svg?style=flat-square)](https://packagist.org/packages/itinerisltd/wp-disable-search)
+[![Packagist Downloads](https://img.shields.io/packagist/dt/itinerisltd/wp-disable-search.svg?label=packagist%20downloads&style=flat-square)](https://packagist.org/packages/itinerisltd/wp-disable-search/stats)
+[![GitHub License](https://img.shields.io/github/license/itinerisltd/wp-disable-search.svg?style=flat-square)](https://github.com/ItinerisLtd/wp-disable-search/blob/master/LICENSE)
 [![Hire Itineris](https://img.shields.io/badge/Hire-Itineris-ff69b4.svg?style=flat-square)](https://www.itineris.co.uk/contact/)
 [![Twitter Follow @itineris_ltd](https://img.shields.io/twitter/follow/itineris_ltd?style=flat-square&color=1da1f2)](https://twitter.com/itineris_ltd)
 
@@ -25,15 +25,15 @@
 ## Installation
 
 ```bash
-composer require itinerisltd/package-template-wp-muplugin-basic
+composer require itinerisltd/wp-disable-search
 ```
 
 ## Credits
 
-[PackageTemplateWPMUPluginBasic](https://github.com/ItinerisLtd/package-template-wp-muplugin-basic) is a [Itineris Limited](https://www.itineris.co.uk/) project created by [Lee Hanbury-Pickett](https://github.com/codepuncher).
+[WPDisableSearch](https://github.com/ItinerisLtd/wp-disable-search) is a [Itineris Limited](https://www.itineris.co.uk/) project created by [Lee Hanbury-Pickett](https://github.com/codepuncher).
 
-Full list of contributors can be found [here](https://github.com/ItinerisLtd/package-template-wp-muplugin-basic/graphs/contributors).
+Full list of contributors can be found [here](https://github.com/ItinerisLtd/wp-disable-search/graphs/contributors).
 
 ## License
 
-[PackageTemplateWPMUPluginBasic](https://github.com/ItinerisLtd/package-template-wp-muplugin-basic) is released under the [MIT License](https://opensource.org/licenses/MIT).
+[WPDisableSearch](https://github.com/ItinerisLtd/wp-disable-search) is released under the [MIT License](https://opensource.org/licenses/MIT).
