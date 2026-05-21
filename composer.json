@@ -27,7 +27,7 @@
   },
   "require-dev": {
     "itinerisltd/itineris-wp-coding-standards": "^1.0",
-    "roots/wordpress": "^6.7"
+    "roots/wordpress": "^7.0"
   },
   "prefer-stable": true,
   "config": {
